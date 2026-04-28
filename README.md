@@ -1,7 +1,7 @@
 # LRRK2 mutation spectrum and association study in a multi-ethnic cohort of Malaysian Parkinson’s Disease patients
 `GP2 ❤️ Open Science 😍`
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/nnnnn/zenodo.nnnnn.svg)](https://doi.org/nnnnn/zenodo.nnnnn)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19859782.svg)](https://doi.org/10.5281/zenodo.19859782)
 
 **Last updated:** April 2026
 
